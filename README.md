@@ -22,6 +22,20 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br/><br/>
+
+<h2> 🎮Projects🎮 </h2>
+<h3>[Main-Projects]</h3>
+
+**[👗 OyeongShop.ver2 (오영샵) : 여성의류 쇼핑몰 👗](https://github.com/5seung/oyeongshop.ver2)** <br/><br/>
+**[🎇 MetaHaus(메타하우스) : 메타버스 에셋 거래 중개 플랫폼 🎇](https://github.com/5seung/metahouse)** <br/><br/>
+
+<h3>[Mini-Projects]</h3>
+
+[👚 OyeongShop.ver1 (오영샵) : 여성의류 쇼핑몰 👚](https://github.com/5seung/OyeongShop) <br/><br/>
+[🥕 CarrotMarket (당근마켓 클론) : 당근마켓 웹 버전 🥕](https://github.com/5seung/SpringCarrotMarket)
+
+<br/><br/>
+
 <h2> Stats </h2>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=5seung)](https://github.com/5seung)
