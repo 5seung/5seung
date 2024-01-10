@@ -15,7 +15,11 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 
 <h3>[Tool & Environment]</h3>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
+![eclipse_ide](https://img.shields.io/badge/eclipse_ide-%2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br/><br/>
 <h2> Stats </h2>
